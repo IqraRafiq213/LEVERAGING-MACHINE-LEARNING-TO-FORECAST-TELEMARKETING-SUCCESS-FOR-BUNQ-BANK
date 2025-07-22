@@ -1,7 +1,10 @@
 **Objective**
 
 
-The objective of this project is to improve telemarketing effectiveness in acquiring long-term deposit clients for Bunq, a digital bank operating in a competitive fintech landscape. By a machine learning-powered decision support system to identify high-potential customer, that satisfies the requirements of maximising recall, reducing targeting inefficiencies, and ensuring model transparency in order to help Bunq’s marketing team optimise outreach customer strategies and efficiently achieve long-term deposit growth objectives. 
+The objective of this project is to improve telemarketing effectiveness in acquiring long-term deposit clients for Bunq, a digital bank operating in a competitive fintech landscape. 
+As telemarketing campaigns in the Bunq Bank consume significant internal resources while failing to attract reliable customers. As one of
+the competitive fintech banks, Bunq values most like depositors who contribute stable and predictable capital over time. Therefore, as part of its strategy to ensure data data-driven
+financial solution, Bunq has shifted its focus toward acquiring long-term deposit clients through data-driven telemarketing efforts.By a machine learning-powered decision support system to identify high-potential customer, that satisfies the requirements of maximising recall, reducing targeting inefficiencies, and ensuring model transparency in order to help Bunq’s marketing team optimise outreach customer strategies and efficiently achieve long-term deposit growth objectives. 
 
 
 **Note**: Data is retrieved from this website: https://archive.ics.uci.edu/dataset/222/bank+marketing
