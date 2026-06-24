@@ -1,4 +1,4 @@
-# 📊 Leveraging Machine Learning to Forecast Telemarketing Success for Bunq Bank
+# 📊Predictive Modelling
 
 > **Can we predict which customers will open a long-term deposit — before we even call them?**  
 > This project builds a machine learning pipeline to do exactly that, helping Bunq's marketing team target smarter and spend less.
